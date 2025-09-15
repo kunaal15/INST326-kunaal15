@@ -1,0 +1,2 @@
+This week I used AI to help me draft a discussion post for my class about AI tools and their limitations. I compared responses from two different AI platforms, Gemini and Claude, to see how context affects accuracy. I also used AI to help me draft a reply to a classmate. I learned that AI responses are much better when the AI has context or prior information. I also realized it is important to double-check AI outputs because they can be confidently wrong. Using AI in this way saved time but still required me to review and revise the responses.
+
