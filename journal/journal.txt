@@ -3,3 +3,6 @@ This week, I explored AI-assisted coding to help me complete my Python assignmen
 n/a
 This week, I used AI to help summarize and organize information for a class assignment on company research tools. I asked ChatGPT to provide details on platforms like VBIC, Glassdoor, and others, including what kind of information each tool provides. This helped me quickly identify which resources I could use for my project without spending hours manually checking each site.
 I used ChatGPT to help me review SQL DML concepts (INSERT, UPDATE, DELETE) and clarify how autocommit works in MySQL Workbench. The explanation helped me understand that, by default, changes are automatically committed unless autocommit is turned off. The AI’s concise breakdown of how transactions and commits work made it easier for me to remember key differences for the quiz. I also learned that MySQL Workbench can simulate transactions for practice.
+This week, I used ChatGPT to help me understand how to define classes and methods in Python.
+I worked on a notebook that involved making classes like Book, Loan, and Library. The AI helped me figure out how to use things like @classmethod, @staticmethod, and how to calculate date differences with datetime.
+It explained everything in simple terms, which made it way easier to understand how self works in methods.
